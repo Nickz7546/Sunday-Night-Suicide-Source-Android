@@ -1,4 +1,4 @@
-Package;
+package;
 
 #if android
 import android.androidtools;
