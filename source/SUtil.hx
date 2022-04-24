@@ -3,6 +3,7 @@ package;
 #if android
 import android.androidtools;
 import android.stuff.permissions;
+#end
 import lime.app.application;
 import openfl.events.uncaughterrorevent;
 import openfl.utils.assets as openflassets;
